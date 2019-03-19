@@ -4,7 +4,6 @@ import { Menu } from './components/menu'
 import { Navbar } from './components/static'
 import { FormSection } from './components/formSection'
 import logo from './logo.svg';
-import './App.css';
 import { firebaseapp } from './firebase.js'
 
 class App extends Component {
